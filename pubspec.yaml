@@ -17,7 +17,7 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  eosdart: ^0.3.2
+  eosdart: ^0.3.3
   flutter:
     sdk: flutter
 
