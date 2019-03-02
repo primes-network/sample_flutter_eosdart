@@ -1,11 +1,13 @@
-# sample_flutter_eosdart
+# Sample Flutter uses eosdart
 
 Sample flutter application uses eosdart to get EOS based blockchain info
 
 ## Screenshot
 
+### iOS
 ![](doc/iphonexr.png)
 
+### Android
 ![](doc/android.png)
 
 ## Getting Started
